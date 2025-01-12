@@ -1,6 +1,8 @@
 
 # React Native App - Location Push to Database & React Web App - Location Fetch
 
+<img width="1920" alt="Screenshot 2025-01-13 at 12 55 35 AM (2)" src="https://github.com/user-attachments/assets/e777b16d-23e9-41c4-97bf-924852692ae6" />
+
 ## Overview
 
 This project demonstrates how a React Native mobile app collects the user's location and pushes it to a backend database. A React web app then fetches the location data from the database and displays it on a map.
@@ -294,4 +296,6 @@ In this project:
 - The **React web app** pulls the location data from the backend and displays it on a map.
 
 This architecture enables real-time tracking and visualizing user locations both in mobile and web applications.
+
+
 
